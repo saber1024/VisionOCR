@@ -9,7 +9,7 @@ s.description  =  <<-DESC
 DESC
 
 s.homepage     = "https://github.com/saber1024/VisionOCR"
-s.license      = {:type => "MIT" :file => "LICENSE"}
+s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author       = {"Jennie的睫毛膏" => "zhushuai19@gmail.com"}
 s.platform     = :ios, "11.0"
 s.source       = {:git =>"https://github.com/saber1024/VisionOCR.git" :tag => s.version}
