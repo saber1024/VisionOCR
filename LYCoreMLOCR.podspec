@@ -13,5 +13,6 @@ s.swift_version = '4.0'
 s.source       = {:git =>"https://github.com/saber1024/VisionOCR.git", :tag => s.version}
 s.source_files = "Classes", "TextDetection/LYIDcardOcrHelper.swift"
 s.requires_arc = true
+s.license = "Copyright (c) 2020 Jennie的睫毛膏"
 end
 
