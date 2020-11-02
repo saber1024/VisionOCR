@@ -3,10 +3,7 @@ Pod::Spec.new do |s|
 s.name         = 'LYCoreMLOCR'
 s.version      =  "1.0.0"
 s.summary      =  "基于Core ML的身份证OCR库"
-s.description  =  <<-DESC
-
-基于Core ML的身份证OCR库
-DESC
+s.description  =  "1.0测试版"
 
 s.homepage     = "https://github.com/saber1024/VisionOCR"
 s.license      = { :type => "MIT", :file => "LICENSE" }
